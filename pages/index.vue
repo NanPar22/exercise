@@ -1,6 +1,6 @@
 <template>
   <div>
-    dasdad
+  index
   </div>
 </template>
 
