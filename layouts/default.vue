@@ -1,8 +1,8 @@
 <template>
-    <div>
-      <header>Header</header>
+    <div class="h-screen  flex flex-col gap-5 bg-gray-200 overflow-auto   ">
+    <Header />
     <slot />
-      <footer>Footer</footer>
+    <!-- <Footer /> -->
     </div>
   </template>
   

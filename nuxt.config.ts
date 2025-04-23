@@ -9,7 +9,7 @@ export default defineNuxtConfig({
   },
   app: {
     head: {
-      title: 'BangkokbrandManages',
+      title: 'โปรแกรมออกกำลังกายสำหรับผู้ป่วยที่มีอาหารปวดหลัง',
       script: [
         {
           src: 'https://kit.fontawesome.com/02a8dd6235.js',
